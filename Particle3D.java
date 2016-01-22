@@ -1,6 +1,3 @@
-//TEST!!!!!!!!!!!!!!!!!!!!
-//did I branch properly
-
 /**
  * Computer Modelling, Exercise 3: Particle3D class.
  *
